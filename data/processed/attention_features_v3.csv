@@ -1,0 +1,5 @@
+minute,mouse_events,mouse_clicks,keyboard_events,context_switches,active_seconds,activity_score,activity_rate,idle_time_seconds,activity_trend,active_app_category
+2026-09-20 14:35:00,387,8,0,0,10,395,0.167,50,0.0,Other
+2026-09-20 14:36:00,148,2,0,0,3,150,0.05,57,-245.0,Other
+2026-09-20 14:37:00,0,0,12,0,7,12,0.117,53,-138.0,Other
+2026-09-20 14:39:00,0,0,0,6,0,0,0.0,60,-12.0,IDE

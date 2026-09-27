@@ -1,0 +1,5 @@
+timestamp,mouse_events,mouse_clicks,keyboard_events,window_switches,activity_score,attention_label
+2026-09-20 14:35:00,387.0,8.0,0.0,0.0,387.0,unknown
+2026-09-20 14:36:00,148.0,2.0,0.0,0.0,148.0,unknown
+2026-09-20 14:37:00,0.0,0.0,12.0,0.0,12.0,unknown
+2026-09-20 14:39:00,0.0,0.0,0.0,6.0,6.0,unknown
